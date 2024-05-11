@@ -1,5 +1,6 @@
 # Merge-Sort-Algorithm
 
+This is the prompt that was given to us for the programming assignment in class:
 1)	Implement Mergesort algorithm; run the program on nine different arrays of real numbers, Array_1, Array_2, …, and Array_9; fill out the following table in a spreadsheet (named Mergesort_Time.xls(x) or Mergesort_Time.csv).
 •	The size of Array_i should be no less than 1000 · i, but the actual array sizes are of your choice.
 •	Elements in each array are also of your choice, and you are highly suggested to use the program to generate random real numbers.
